@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54cff0bc-6bab-45b3-b1ae-1086beca0b20" name="Default Changelist" comment="">
+    <list default="true" id="52abfb2b-86c7-4509-b877-818f233231bf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/asset-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CNAME" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/logo192.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/logo512.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/precache-manifest.f8e73a8361ac550c4c0509dd907a519c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/precache-manifest.8eb2a93a0ae0c09bb68cc9e49ff937ab.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/service-worker.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/static/css/main.bed29f1c.chunk.css" beforeDir="false" />
@@ -16,8 +17,8 @@
       <change beforePath="$PROJECT_DIR$/static/js/2.7a639157.chunk.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/static/js/2.7a639157.chunk.js.LICENSE" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/static/js/2.7a639157.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/main.0f64a8fd.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/main.0f64a8fd.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.84aedf0e.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.84aedf0e.chunk.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/static/js/runtime-main.7f48936f.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/static/js/runtime-main.7f48936f.js.map" beforeDir="false" />
     </list>
@@ -27,17 +28,23 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf />
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="450" />
-    <option name="y" value="168" />
-    <option name="width" value="1440" />
-    <option name="height" value="786" />
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/lawsaw.github.io.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="32" />
+    <option name="width" value="1920" />
+    <option name="height" value="1168" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -59,16 +66,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -87,25 +88,29 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="54cff0bc-6bab-45b3-b1ae-1086beca0b20" name="Default Changelist" comment="" />
-      <created>1568124503351</created>
+      <changelist id="52abfb2b-86c7-4509-b877-818f233231bf" name="Default Changelist" comment="" />
+      <created>1580988346352</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568124503351</updated>
-      <workItem from="1568124504793" duration="241000" />
-      <workItem from="1580929498770" duration="965000" />
+      <updated>1580988346352</updated>
+      <workItem from="1580988348373" duration="519000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1206000" />
+    <option name="totallyTimeSpent" value="519000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="450" y="168" width="1440" height="786" extended-state="0" />
+    <frame x="0" y="32" width="1920" height="1168" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25502872" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32949087" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -113,26 +118,13 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32928678" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/static/css/main.bed29f1c.chunk.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/2.7a639157.chunk.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
   </component>
 </project>
