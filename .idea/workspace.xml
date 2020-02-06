@@ -2,25 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52abfb2b-86c7-4509-b877-818f233231bf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/asset-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CNAME" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/precache-manifest.8eb2a93a0ae0c09bb68cc9e49ff937ab.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-worker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/main.bed29f1c.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/main.bed29f1c.chunk.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/2.7a639157.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/2.7a639157.chunk.js.LICENSE" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/2.93b02c9d.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/main.f89aa5c9.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/main.f89aa5c9.chunk.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/precache-manifest.fe790266a19ccd69afac64aeb6250f1c.js" beforeDir="false" afterPath="$PROJECT_DIR$/precache-manifest.ecddad54399898eec4a73f8d2bb2dbca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/service-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.7a639157.chunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/2.93b02c9d.chunk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.7a639157.chunk.js.LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/2.93b02c9d.chunk.js.LICENSE" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/js/2.7a639157.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/main.84aedf0e.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/main.84aedf0e.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/runtime-main.7f48936f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/runtime-main.7f48936f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.0ae0a282.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.0ae0a282.chunk.js.map" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,18 +22,17 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/static/js/2.93b02c9d.chunk.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/lawsaw.github.io.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="32" />
@@ -71,6 +64,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -93,23 +91,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580988346352</updated>
-      <workItem from="1580988348373" duration="519000" />
+      <workItem from="1580988348373" duration="639000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="519000" />
+    <option name="totallyTimeSpent" value="639000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="32" width="1920" height="1168" extended-state="6" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32949087" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32949087" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -126,5 +124,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/static/js/2.93b02c9d.chunk.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
   </component>
 </project>
