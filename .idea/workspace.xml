@@ -3,6 +3,24 @@
   <component name="ChangeListManager">
     <list default="true" id="f4db15eb-82f7-45d3-8488-e4c4e07c943f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/precache-manifest.a49a859f728db6f84f93a556c1ceac94.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/main.bed29f1c.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/main.bed29f1c.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.ad5fec72.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.ad5fec72.chunk.js.LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.ad5fec72.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.9ffa2836.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.9ffa2836.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/runtime-main.7f48936f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/runtime-main.7f48936f.js.map" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,11 +75,18 @@
       <workItem from="1581692013442" duration="69000" />
       <workItem from="1581932240860" duration="9000" />
       <workItem from="1582547661797" duration="599000" />
+      <workItem from="1582549027088" duration="921000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="742" y="360" width="424" height="516" key="FileChooserDialogImpl" timestamp="1582549348196">
+      <screen x="0" y="32" width="1920" height="1168" />
+    </state>
+    <state x="742" y="360" width="424" height="516" key="FileChooserDialogImpl/0.32.1920.1168/1920.0.1920.1200@0.32.1920.1168" timestamp="1582549348196" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -69,7 +94,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/static/js/2.05e676ad.chunk.js</url>
           <line>1</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
