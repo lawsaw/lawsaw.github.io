@@ -29,6 +29,7 @@
     <option name="width" value="1717" />
     <option name="height" value="1046" />
   </component>
+  <component name="ProjectId" id="1YGjBfs2eYt0lfbl5dS46BYmbWG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -55,6 +56,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -127,6 +129,12 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="655" y="362" width="589" height="392" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582575750522">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="655" y="362" width="589" height="392" key="#com.intellij.fileTypes.FileTypeChooser/0.32.1920.1048@0.32.1920.1048" timestamp="1582575750522" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/static/js/2.93b02c9d.chunk.js" />
