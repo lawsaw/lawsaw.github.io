@@ -1,27 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4db15eb-82f7-45d3-8488-e4c4e07c943f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b3e81854-330c-4c11-8f2c-966243e4b6a8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/asset-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/precache-manifest.e543275bf3fce1466b8d8128b4e43b00.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/main.bed29f1c.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.c8cc6790.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.c8cc6790.chunk.js.LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.485e9c0a.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/runtime-main.7f48936f.js" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf />
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/index.html" />
-      </list>
-    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1982" />
@@ -31,30 +38,6 @@
   </component>
   <component name="ProjectId" id="1YGjBfs2eYt0lfbl5dS46BYmbWG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="lawsaw.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lawsaw.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lawsaw.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lawsaw.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -67,18 +50,6 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -100,33 +71,6 @@
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4671000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="1982" y="124" width="1717" height="1046" extended-state="0" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30197722" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32949087" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.4624592" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -135,42 +79,5 @@
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
     <state x="655" y="362" width="589" height="392" key="#com.intellij.fileTypes.FileTypeChooser/0.32.1920.1048@0.32.1920.1048" timestamp="1582575750522" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/static/js/2.93b02c9d.chunk.js" />
-    <entry file="file://$PROJECT_DIR$/static/js/2.5f82c78a.chunk.js" />
-    <entry file="file://$PROJECT_DIR$/static/js/main.dea4cb43.chunk.js" />
-    <entry file="file://$PROJECT_DIR$/static/js/runtime-main.7f48936f.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/main.bed29f1c.chunk.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="51" selection-start-line="1" selection-start-column="51" selection-end-line="1" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/2.09e5beae.chunk.js" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/2.080d0011.chunk.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
